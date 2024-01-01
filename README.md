@@ -28,3 +28,24 @@ Before running the TicTacToe game, ensure you have the following installed:
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 ### Clone the Repository
+git clone https://github.com/KhalikAmine/TicTacToe.git
+cd TicTacToe
+
+
+## Planned Features
+
+Here are the planned features and enhancements for the future versions of the TicTacToe game:
+
+### 1. Harder AI
+
+Introduce a more challenging AI opponent for advanced players, enhancing the game's difficulty.
+
+### 2. Scoreboard
+
+Implement a scoreboard to keep track of player scores across multiple games.
+
+### 3. Difficulty Levels
+
+Introduce buttons for different difficulty levels, allowing players to choose the level of challenge they prefer.
+
+
